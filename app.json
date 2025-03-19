@@ -36,6 +36,21 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "0986bdb2-4c6f-4687-b409-acdb4407feb5"
+      }
+    },
+    "owner": "victor.men",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0986bdb2-4c6f-4687-b409-acdb4407feb5"
     }
   }
 }
